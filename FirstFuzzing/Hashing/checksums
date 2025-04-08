@@ -3,11 +3,6 @@ Algorithm MD5: 0338115406a217322045d201b8d22303
 Algorithm SHA256: de2465f32faac5a19157f590c8b5ce127d7180009c77dd2e447c140b04f9373f
 Algorithm SHA512: 8362746383e9fca5b16054a0ab525d46cdaf15b32059ca6ae11d4eea46743b578b830748a7bbef04c193885221680d90dd188daf35cc29e52568e82460e94407
 ========================================
-===============script.py================
-Algorithm MD5: f2b0a4dc6755810919d89e0ccd3907c0
-Algorithm SHA256: 1557bf86124ae0d661592413e6a5333d34fef411d0bdda33b666c34431ec7e66
-Algorithm SHA512: 533410bab33a893d8c3793647ed7c9807bd84df0ae69324cb137fca9c0ba30184beecfa179e39ff24d00f75d6e492ca9b201ee23a1c82fae67719df4c48e6d50
-========================================
 ================main.rs=================
 Algorithm MD5: 1dee340b2fe5faa03f6766a6a90a2bb3
 Algorithm SHA256: e58689e42018dcf855a3bfd8515e602d63fc42b5d9e1f24d63b77110d49559d6
